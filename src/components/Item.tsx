@@ -40,7 +40,19 @@ const Item = ({ name }: ItemProps) => {
             <Input />
           </ListItem>
           <ListItem>
-            <Label>Bitrate (Mbps)</Label>
+            <Label>Hrs/day Recording</Label>
+            <Input />
+          </ListItem>
+          <ListItem>
+            <Label>Desktop / Rack</Label>
+            <Input />
+          </ListItem>
+          <ListItem>
+            <Label>Upfront Payment</Label>
+            <Input />
+          </ListItem>
+          <ListItem>
+            <Label>Payback (months)</Label>
             <Input />
           </ListItem>
         </List>

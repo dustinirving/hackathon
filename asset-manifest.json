@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/solink-pricing-calculator/static/css/main.38048d06.chunk.css",
+    "main.js": "/solink-pricing-calculator/static/js/main.6a875734.chunk.js",
+    "main.js.map": "/solink-pricing-calculator/static/js/main.6a875734.chunk.js.map",
+    "runtime-main.js": "/solink-pricing-calculator/static/js/runtime-main.a2ecd70c.js",
+    "runtime-main.js.map": "/solink-pricing-calculator/static/js/runtime-main.a2ecd70c.js.map",
+    "static/js/2.99d730a6.chunk.js": "/solink-pricing-calculator/static/js/2.99d730a6.chunk.js",
+    "static/js/2.99d730a6.chunk.js.map": "/solink-pricing-calculator/static/js/2.99d730a6.chunk.js.map",
+    "static/js/3.557754b9.chunk.js": "/solink-pricing-calculator/static/js/3.557754b9.chunk.js",
+    "static/js/3.557754b9.chunk.js.map": "/solink-pricing-calculator/static/js/3.557754b9.chunk.js.map",
+    "index.html": "/solink-pricing-calculator/index.html",
+    "static/css/main.38048d06.chunk.css.map": "/solink-pricing-calculator/static/css/main.38048d06.chunk.css.map",
+    "static/js/2.99d730a6.chunk.js.LICENSE.txt": "/solink-pricing-calculator/static/js/2.99d730a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2ecd70c.js",
+    "static/js/2.99d730a6.chunk.js",
+    "static/css/main.38048d06.chunk.css",
+    "static/js/main.6a875734.chunk.js"
+  ]
+}
